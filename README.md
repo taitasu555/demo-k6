@@ -43,8 +43,8 @@ vus_max：最大VU数
 https://k6.io/docs/get-started/results-output/
 ```
 
+## 参考
 
-### 参考、引用記事
 https://k6.io/docs/
 https://engineering.dena.com/blog/2021/10/healthcare-load-testing/
 https://syossan.hateblo.jp/entry/2022/12/06/113407
